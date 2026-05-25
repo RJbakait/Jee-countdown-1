@@ -1,0 +1,24 @@
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:black;
+  color:white;
+  font-family:sans-serif;
+}
+
+.container{
+  text-align:center;
+}
+
+#days{
+  font-size:120px;
+  font-weight:bold;
+}
+
+#quote{
+  font-size:24px;
+  margin-top:20px;
+}
